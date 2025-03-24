@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Load the dataset
+# Example dataset (you will replace this with your own data file)
 data = pd.read_csv('turnover.csv')
 
 # Select the relevant columns
